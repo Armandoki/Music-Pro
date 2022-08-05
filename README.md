@@ -1,6 +1,8 @@
 # Music-Pro 🎸
 Página web para comprar instrumentos musicales, realizada como proyecto semestral.
 
+![MusicPro](./img/MusicPro1.png)
+
 ## Importante 🦊
 Para visualizar la página web debe:
 - Descargar el repositorio ([Aquí](https://github.com/Armandoki/Music-Pro/archive/refs/heads/main.zip)). 
